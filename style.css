@@ -1,0 +1,19 @@
+body {
+  background-color: rgb(84, 84, 82);
+}
+.class1 h1 {
+  font-size: 50px;
+}
+.class1 p {
+  font-size: 24px;
+  line-height: 2; /* là khoảng cách các dòng */
+}
+.class1 {
+  margin: 0 auto;
+  background-color: yellow;
+  width: 900px;
+  text-align: center; /* là cho các chữ ở giữa */
+}
+.class1 img {
+  max-width: 600px; /* độ rộng tối đa */
+}
